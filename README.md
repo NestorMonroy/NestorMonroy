@@ -6,7 +6,6 @@
 <br />
 
 - 👯 I’m looking to collaborate with other Developers.
-- ⚡ Interested in : Full stack developer 
 - 🔭 I’m currently working on a lot freelance projects: educational, ecommerce, blog 
 - 🌱 I’m currently learning professional skils about frontend and backend development
 
