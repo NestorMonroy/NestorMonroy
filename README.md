@@ -1,7 +1,5 @@
 ### Hi there, I'm Nestor Monroy
 
-## I'm a Developer, and Student!
-
 ---
 <br />
 
